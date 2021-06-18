@@ -1,0 +1,35 @@
+.heading{
+    background-color: rgb(98, 98, 98);
+    box-shadow:5px 5px 5px white;
+    font-size: 35;
+color: white;
+text-shadow: 5px 5px 5px black;
+
+}
+
+body{
+    color: white;
+    text-align: center;
+}
+
+
+
+
+.FOOTER{
+    color: white;
+   background-color:black ;
+   bottom:0;
+   position: fixed;
+   text-align:center;
+   font-size: 25px;
+   width:100%;
+   line-height: 3;
+   text-shadow: 5px 5px 5px white;
+}
+
+canvas{
+    border-radius: 10px;
+    border-color: white;
+    box-shadow: 5px 5px 5px white;
+    border-width: 3px;
+}
