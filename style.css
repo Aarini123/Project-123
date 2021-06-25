@@ -12,7 +12,10 @@ body{
     text-align: center;
 }
 
-
+h2{
+    text-align: left;
+    margin-bottom: 0%;
+}
 
 
 .FOOTER{
@@ -32,4 +35,8 @@ canvas{
     border-color: white;
     box-shadow: 5px 5px 5px white;
     border-width: 3px;
+}
+
+video{
+    margin-right: 500px;
 }
